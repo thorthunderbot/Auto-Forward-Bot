@@ -50,7 +50,8 @@ about - to know about me
 
 
 ## Thanks and credits
-- [Rajkumar-fr](https://github.com/rajkumar-fr)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://t.me/greymatters_about/13)
+
+- [Rajkumar-fr](https://github.com/rajkumar-fr)
 - [Dan](https://telegram.dog/haskell) for his pyrogram docs
 - [MaheshMalekar](https://telegram.dog/MaheshMalekar) ❤
