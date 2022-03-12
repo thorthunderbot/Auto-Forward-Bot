@@ -1,14 +1,10 @@
 ## CHANNEL AUTO FORWARD
-This repo is the clone of [CHANNEL AUTOMATIC NS BOT](https://telegram.dog/Autoforward_Nsbot)
 
-**NOTE:** There is more difference between my bot and this repo. But the purposes is same
-
-
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT/tree/main)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/greymatters_bots_discussion)
 
 ## How to Deploy? 🤔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajkumar-Fr/Auto-Forward-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GreyMatter658/Auto-Forward-Bot)
 - 👆 Press the deploy button.
 
 - Go to  [my.telegram.org](https://my.telegram.org/)
@@ -30,8 +26,8 @@ This repo is the clone of [CHANNEL AUTOMATIC NS BOT](https://telegram.dog/Autofo
 
 
 ## How to reach Me ?
-<a href="https://telegram.dog/Ns_bot_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/Ns_Bot_supporters"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/GreyMatter_bots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.dog/greymatters_bots_discussion"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## COMMANDS
 ### AVAILABLE COMMANDS 
@@ -47,13 +43,14 @@ about - to know about me
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT/blob/main/LICENSE)
 
 ## Status
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT/tree/main)
-![Forks](https://img.shields.io/github/forks/Ns-AnoNymouS/TG-CONVERT-BOT)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]
+![Forks]
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ns-AnoNymouS&theme=blue-green)
 [![Anonymous's github stats](https://github-readme-stats.vercel.app/api?username=Ns-AnoNymouS&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Thanks and credits
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+- [Rajkumar-fr](https://github.com/rajkumar-fr)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://t.me/greymatters_about/13)
 - [Dan](https://telegram.dog/haskell) for his pyrogram docs
 - [MaheshMalekar](https://telegram.dog/MaheshMalekar) ❤
