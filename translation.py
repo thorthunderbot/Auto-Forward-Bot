@@ -1,7 +1,7 @@
 class Translation(object):
 
       # Start text
-      START = "Hi I am a channel auto forward bot. \nMake your own bot now 👉 Source code <a href='https://github.com/GreyMatter658/auto-forward-bot'> \n\n<b>Support Channel and Groups:</b>\n @GreyMatter_bots, @GreyMatters_bots_discussion"             
+      START = "Hi I am a channel auto forward bot. \nMake your own bot now 👉 Source code <a href='https://t.me/MyBotsupport'> \n\n<b>Support Channel and Groups:</b>\n @MyBotsupport, @BATTLE_GROUP_OF_HEXA"             
 
       #About text
       ABOUT = """
