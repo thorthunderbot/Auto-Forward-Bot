@@ -7,7 +7,7 @@ class Translation(object):
       ABOUT = """
 <b>📝 Language:</b> Python 3
 <b>🧰 Framework:</b> Pyrogram
-<b>👨‍💻 Developer:</b> 𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬
-<b>📢 Channel:</b> @GreyMatter_Bots
-<b>👥 Group:</b> @GreyMatters_bots_discussion
-<b>🌐Source Code:</b> Press Me <a href='https://github.com/greymatter658/auto-forward-bot'> 🥰"""
+<b>👨‍💻 Developer:</b> https://t.me/pokemonmaster856
+<b>📢 Channel:</b> @BATTLE_GROUP_OF_HEXA
+<b>👥 Group:</b> @MyBotsupport
+<b>🌐Source Code:</b> Press Me <a href='https://t.me/MyBotsupport'> 🥰"""
